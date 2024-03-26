@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual TMDb API key
+const apiKey = 'API_KEY'; 
 const searchInput = document.getElementById('searchInput');
 const movieList = document.getElementById('movieList');
 
